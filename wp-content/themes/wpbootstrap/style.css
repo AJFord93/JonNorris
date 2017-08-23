@@ -1,0 +1,22 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+Description: Grayscale Bootstrap Theme
+Author: AJ Ford
+Author URI: http://github.com/ajford93
+Version: 1.0
+Tags: responsive, gray, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Grayscale" found on the Bootstrap web site https://startbootstrap.com/template-overviews/grayscale/
+*/
+
+
+@import url('bootstrap/vendor/bootstrap/css/bootstrap.min.css');
+@import url('bootstrap/vendor/font-awesome/css/font-awesome.min.css');
+@import url('bootstrap/css/grayscale.min.css');
+
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic');
+@import url('https://fonts.googleapis.com/css?family=Cabin:700');
